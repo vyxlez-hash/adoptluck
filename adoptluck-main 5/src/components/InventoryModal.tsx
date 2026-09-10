@@ -1,4 +1,3 @@
-```tsx
 import React, { useState, useEffect, useMemo } from 'react';
 import { X, Package, Coins, Trash2, Search, ArrowUpDown } from 'lucide-react';
 import { User, PlayerPetItem } from '../types';
@@ -327,4 +326,3 @@ export const InventoryModal: React.FC<InventoryModalProps> = ({
     </div>
   );
 };
-```
