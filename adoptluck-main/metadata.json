@@ -1,6 +1,0 @@
-{
-  "name": "AdoptLuck",
-  "description": "AdoptLuck - The premier Adopt Me pet & Robux coinflip arena. Provably fair, real-time flips, and live community chat.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
