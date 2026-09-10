@@ -1,4 +1,3 @@
-```tsx
 import {
   User,
   PetValue,
